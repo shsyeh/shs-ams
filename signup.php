@@ -139,7 +139,7 @@ include('connect.php');
       <div class="form-group">
           <label for="input1" class="col-sm-3 control-label">Password</label>
           <div class="col-sm-7">
-            <input type="password" name="password"  class="form-control" id="input1" placeholder="choose a strong password" />
+            <input type="password" name="pass"  class="form-control" id="input1" placeholder="choose a strong password" />
           </div>
       </div>
 
